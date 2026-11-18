@@ -11,7 +11,7 @@ curl -fsS \
 hostname=<domain_name>&password=<ip_update_password_sha256_hash>&username=<user>&myip=<wan_ip>'
 ```
 
-### Update using [REST API][1]
+### [Update using REST API][1]
 
 #### Service URL
 
